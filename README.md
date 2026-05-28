@@ -13,9 +13,6 @@
 
 - 🎓 B.Tech in **Electronics & Computer Engineering** at VIT Chennai (2023–Present), CGPA: 7.90
 - 🤖 Deeply interested in **Machine Learning, NLP, Generative AI, and LLMs** — I love making AI run closer to the metal (on-device, no API calls!)
-- 🛠️ I build full-stack products end-to-end — ETL pipelines, REST APIs, and responsive frontends
-- 🏅 Certified in **GEN AI Using IBM Watsonx** — IBM Career Education Program *(June 2025)*
-- 📸 Design & Content Head at **Photography Club, VIT Chennai**
 - 📬 Feel free to reach out at **komatineni.srihitha2023@vitstudent.ac.in** for collaborations, discussions, or opportunities — always open to working on interesting problems!
 
 ---
