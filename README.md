@@ -48,26 +48,6 @@
 
 ---
 
-### Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| 🏥 **MedIntel** | Healthcare analytics platform with ETL pipeline, ML risk prediction & anomaly detection | FastAPI · PostgreSQL · Docker · scikit-learn |
-| 🎙️ **Polyglot Minutes** | Fully offline AI meeting summarizer — transcripts, summaries & action items, all on-device | FastAPI · Llama 3.2 · faster-whisper |
-| 🌐 **Lango** | Real-time spoken language identifier at 200ms latency on CPU | Whisper · WebSocket · Next.js · FastAPI |
-| 🌟 **Orbit App** | Inspiration management platform with Google OAuth, full-text search & rich-text editing | Next.js · Prisma · PostgreSQL · Vercel |
-
----
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hithaa09&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hithaa09&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
----
-
 ### Connect with me
 
 <p>
